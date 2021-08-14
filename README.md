@@ -1,11 +1,14 @@
-**만나는 요일 :** 화 금
+<h2> algo-study - junmkang </h2>
 
-**시간 :** 17:00
+<h3> BOJ </h3>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k010103)](https://solved.ac/k010103/)
 
 **사용 언어 :** PYTHON
 
 ---
 
-- 2021/08/13/17:15 start.
+<h3> 2021/08/13/17:15 start. </h3>
 
-  과제 : 백준 4단계까지.
+- https://www.acmicpc.net/step
+- 4단계 while문까지 풀어서 git에 올리기
